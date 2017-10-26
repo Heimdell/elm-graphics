@@ -6,6 +6,7 @@ module Collage exposing
   , Shape, rect, oval, square, circle, ngon, polygon
   , Path, segment, path
   , solid, dashed, dotted, LineStyle, LineCap(..), LineJoin(..), defaultLine
+  , sprite
   )
   -- where
 
